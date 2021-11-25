@@ -248,4 +248,8 @@ select:hover {
     margin-right: 0;
     padding: 16px;
   }
+
+  .benefits hr {
+    margin: 25px auto ;
+  }
 }
