@@ -9,6 +9,7 @@ html {
 }
 
 body {
+  min-width: 320px;
   background: #f1f3f9;
   min-height: 100%;
   font-family: 'Ubuntu', sans-serif;
